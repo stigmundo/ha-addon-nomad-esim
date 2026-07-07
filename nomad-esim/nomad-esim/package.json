@@ -1,0 +1,10 @@
+{
+  "name": "nomad-esim-mqtt",
+  "version": "0.1.0",
+  "description": "Nomad eSIM data publisher for Home Assistant MQTT",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "mqtt": "^5.10.4"
+  }
+}

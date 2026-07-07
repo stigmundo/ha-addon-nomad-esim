@@ -1,0 +1,9 @@
+name: "Nomad eSIM MQTT"
+version: "0.1.0"
+slug: nomad_esim
+description: Retrieves Nomad eSIM data and publishes it to MQTT.
+startup: services
+boot: auto
+init: false
+arch:
+  - aarch64
